@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace ListsHomework
 {
     [TestFixture]
-    public class Class1
+    public class ListsTests
     {
         // Whenever you see this constant, you'll need to delete the
         // variable reference and replace it with a literal value.
